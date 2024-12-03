@@ -7,5 +7,7 @@ VSCode
 
 # Futtatás
 ```shell
+npm i
+
 npm run dev
 ```
